@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmeghana-18&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rmeghana-18&theme=radical)  
+[![GitHub Streak](https://img.shields.io/badge/GitHubstreak-3776AB?style=for-the-badge&logo=githubstreak&logoColor=white)](https://github-readme-streak-stats.herokuapp.com/?user=rmeghana-18&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmeghana-18&layout=compact&theme=radical)
 
 ---
