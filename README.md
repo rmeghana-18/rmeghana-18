@@ -33,10 +33,9 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![HTML](https://img.shields.io/badge/Html-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmeghana-18&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rmeghana-18&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmeghana-18&layout=compact&theme=radical)
 
 ---
 
