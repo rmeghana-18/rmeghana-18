@@ -9,7 +9,7 @@
 - 🌱 I’m learning **Django | JavaScript | React | Cloud & DevOps**  
 - 💬 Ask me about **Python, APIs, Databases, Web Development**  
 - 📫 Reach me at: **saimeghanaravanaboyina18@gmail.com**  
-- ⚡ Fun fact: *Code + Coffee = Happiness* ☕  
+- ⚡ Fun fact: *Code + Creativity = Digital Art* 🖥️ 
 
 ---
 
