@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sai Megahana Ravanaboyina  
+# Hi 👋, I'm Sai Meghana Ravanaboyina  
 
 💻 **Full Stack Python Developer | Tech Enthusiast | Problem Solver**  
 
