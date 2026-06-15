@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working as a **python full-stack developer**  
-- 🌱 I’m learning **Django | Docker | Linux | Cloud & DevOps**  
+- 🔭 I’m currently working on **exciting full-stack developer**  
+- 🌱 I’m learning **Django | React | JavaScript | Cloud & DevOps**  
 - 💬 Ask me about **Python, APIs, Databases, Web Development**  
 - 📫 Reach me at: **saimeghanaravanaboyina18@gmail.com**  
 - ⚡ Fun fact: *Code + Creativity = Digital Art* 🖥️ 
